@@ -1,4 +1,3 @@
-Certainly! Here's the updated information, combining the table with the breakdown of **PowerShell**, **Bicep**, and **Terraform** for managing Azure resources:
 
 ---
 
